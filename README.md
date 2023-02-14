@@ -21,4 +21,3 @@
 <a href="https://www.linkedin.com/in/yan-henrique-magalh%C3%A3es-157b111b4/" target="_blank"><img height="40" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
 
-![Snake animation](https://github.com/YanMagal/YanMagal/blob/output/github-contribution-grid-snake.svg)
